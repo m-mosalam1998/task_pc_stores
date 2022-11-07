@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "395877899774",
+    "project_id": "task-pc-stores",
+    "storage_bucket": "task-pc-stores.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:395877899774:android:b0d129e3dc63ed2b98f4af",
+        "android_client_info": {
+          "package_name": "com.example.task_pc_stores"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "395877899774-8i1hf6du7h8sf2k83bl9c6tk3sqmm2r0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.task_pc_stores",
+            "certificate_hash": "828b1d084545b5e25fd7f2dbfa0fa1b73731e5ff"
+          }
+        },
+        {
+          "client_id": "395877899774-okfons1vj92dlo5248p8p0p9tv2fkcrl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUgL79SnF8BFNvV9UCbR53G9FRYJjC3ek"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "395877899774-okfons1vj92dlo5248p8p0p9tv2fkcrl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
